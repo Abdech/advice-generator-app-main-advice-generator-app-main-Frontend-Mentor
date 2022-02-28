@@ -61,21 +61,22 @@ body{
 }
 .divider{
   padding: 1rem 0 ;
-  display: flex;
+  /* display: flex; */
 }
 .img-dice {
   position: absolute;
-  bottom: -23px;
+  bottom: -29px;
   /* left: 50%; */
-  right: 47.6%;
+  right: 45.9%;
   background-color: var(--Neon-Green);
-  padding: .6rem .6rem .6rem .6rem;
+  padding: 19px;
   /* margin-top: 10px; */
   border-radius: 100%;
 }
-hr{
-   
+.img-dice img{
+   padding: 4px 0 0 0;
 }
 @media screen {
   
 }
+
