@@ -12,9 +12,9 @@ async function advicer() {
     const {slip} = await res.json()
 ;
   console.log(slip);
-  quoteNo.innerText =   `${slip.id}`
-    theQuote.innerText = `"${slip.advice}`
+  quoteNo.innerHTML =   `${slip.id}`
+    theQuote.innerHTML = `"${slip.advice}`
   
 } 
 
-dice.addEventListener('click', advicer())
+dice.addEventListener('click', advicer)
