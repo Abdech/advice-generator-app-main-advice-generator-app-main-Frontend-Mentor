@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL:(https://github.com/Abdech/advice-generator-app-main-advice-generator-app-main-Frontend-Mentor)
+- Live Site URL:(https://github.com.io/Abdech/advice-generator-app-main-advice-generator-app-main-Frontend-Mentor)
 
 ## My process
 
